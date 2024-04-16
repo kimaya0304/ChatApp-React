@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "Kimaya",
+      "contact": "9767325451",
+      "email": "kimaya@gmail.com",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "name": "John Doe",
+      "contact": "45454637378873",
+      "email": "john@gmail.com",
+      "password": "456",
+      "id": 2
+    }
+  ]
+}
